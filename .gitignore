@@ -1,3 +1,8 @@
+#__OS_GENERATED__
+**.DS_Store
+**.icloud
+
+#__IPYTHON_JUNK__
 */.ipynb_checkpoints/*
 .ipynb_checkpoints/*
 notebooks/*
